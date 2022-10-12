@@ -6,9 +6,9 @@ This app can provide webservice without browser
 
 ## Installing
 
-`git clone https://github.com/Kovalit31/redirect_electron`
-`cd redirect_electron`
-`pip install -r requirments.txt`
+`git clone https://github.com/Kovalit31/redirect_electron` <br>
+`cd redirect_electron` <br>
+`pip install -r requirments.txt` <br>
 
 ## Using
 
